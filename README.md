@@ -4,7 +4,7 @@ Traduccion no oficial del juego Oxygen not included!
 
 # Como contribuir!
 
-  1.- Primero descargar el strings.po mas reciente del GIT.
+  1.- Primero descargar el strings.po mas reciente del GIT..
   
   2.- Abrir el archivo con Poedit(https://poedit.net/download)
   
